@@ -1,0 +1,12 @@
+C:\Users\Nickp\source\repos\AcmeAccounting\AcmeAccounting\obj\Debug\netcoreapp3.1\AcmeAccounting.AssemblyInfoInputs.cache
+C:\Users\Nickp\source\repos\AcmeAccounting\AcmeAccounting\obj\Debug\netcoreapp3.1\AcmeAccounting.AssemblyInfo.cs
+C:\Users\Nickp\source\repos\AcmeAccounting\AcmeAccounting\obj\Debug\netcoreapp3.1\AcmeAccounting.csproj.CoreCompileInputs.cache
+C:\Users\Nickp\source\repos\AcmeAccounting\AcmeAccounting\bin\Debug\netcoreapp3.1\AcmeAccounting.exe
+C:\Users\Nickp\source\repos\AcmeAccounting\AcmeAccounting\bin\Debug\netcoreapp3.1\AcmeAccounting.deps.json
+C:\Users\Nickp\source\repos\AcmeAccounting\AcmeAccounting\bin\Debug\netcoreapp3.1\AcmeAccounting.runtimeconfig.json
+C:\Users\Nickp\source\repos\AcmeAccounting\AcmeAccounting\bin\Debug\netcoreapp3.1\AcmeAccounting.runtimeconfig.dev.json
+C:\Users\Nickp\source\repos\AcmeAccounting\AcmeAccounting\bin\Debug\netcoreapp3.1\AcmeAccounting.dll
+C:\Users\Nickp\source\repos\AcmeAccounting\AcmeAccounting\bin\Debug\netcoreapp3.1\AcmeAccounting.pdb
+C:\Users\Nickp\source\repos\AcmeAccounting\AcmeAccounting\obj\Debug\netcoreapp3.1\AcmeAccounting.dll
+C:\Users\Nickp\source\repos\AcmeAccounting\AcmeAccounting\obj\Debug\netcoreapp3.1\AcmeAccounting.pdb
+C:\Users\Nickp\source\repos\AcmeAccounting\AcmeAccounting\obj\Debug\netcoreapp3.1\AcmeAccounting.genruntimeconfig.cache
