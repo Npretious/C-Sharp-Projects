@@ -1,0 +1,13 @@
+C:\Users\Nickp\source\repos\PackageExpressAssignment\PackageExpressAssignment\bin\Debug\netcoreapp3.1\PackageExpressAssignment.exe
+C:\Users\Nickp\source\repos\PackageExpressAssignment\PackageExpressAssignment\bin\Debug\netcoreapp3.1\PackageExpressAssignment.deps.json
+C:\Users\Nickp\source\repos\PackageExpressAssignment\PackageExpressAssignment\bin\Debug\netcoreapp3.1\PackageExpressAssignment.runtimeconfig.json
+C:\Users\Nickp\source\repos\PackageExpressAssignment\PackageExpressAssignment\bin\Debug\netcoreapp3.1\PackageExpressAssignment.runtimeconfig.dev.json
+C:\Users\Nickp\source\repos\PackageExpressAssignment\PackageExpressAssignment\bin\Debug\netcoreapp3.1\PackageExpressAssignment.dll
+C:\Users\Nickp\source\repos\PackageExpressAssignment\PackageExpressAssignment\bin\Debug\netcoreapp3.1\PackageExpressAssignment.pdb
+C:\Users\Nickp\source\repos\PackageExpressAssignment\PackageExpressAssignment\obj\Debug\netcoreapp3.1\PackageExpressAssignment.csproj.AssemblyReference.cache
+C:\Users\Nickp\source\repos\PackageExpressAssignment\PackageExpressAssignment\obj\Debug\netcoreapp3.1\PackageExpressAssignment.AssemblyInfoInputs.cache
+C:\Users\Nickp\source\repos\PackageExpressAssignment\PackageExpressAssignment\obj\Debug\netcoreapp3.1\PackageExpressAssignment.AssemblyInfo.cs
+C:\Users\Nickp\source\repos\PackageExpressAssignment\PackageExpressAssignment\obj\Debug\netcoreapp3.1\PackageExpressAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Nickp\source\repos\PackageExpressAssignment\PackageExpressAssignment\obj\Debug\netcoreapp3.1\PackageExpressAssignment.dll
+C:\Users\Nickp\source\repos\PackageExpressAssignment\PackageExpressAssignment\obj\Debug\netcoreapp3.1\PackageExpressAssignment.pdb
+C:\Users\Nickp\source\repos\PackageExpressAssignment\PackageExpressAssignment\obj\Debug\netcoreapp3.1\PackageExpressAssignment.genruntimeconfig.cache
