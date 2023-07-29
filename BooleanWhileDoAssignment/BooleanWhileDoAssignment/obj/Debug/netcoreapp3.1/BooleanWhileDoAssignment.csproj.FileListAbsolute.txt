@@ -1,0 +1,13 @@
+C:\Users\Nickp\source\repos\BooleanWhileDoAssignment\BooleanWhileDoAssignment\bin\Debug\netcoreapp3.1\BooleanWhileDoAssignment.exe
+C:\Users\Nickp\source\repos\BooleanWhileDoAssignment\BooleanWhileDoAssignment\bin\Debug\netcoreapp3.1\BooleanWhileDoAssignment.deps.json
+C:\Users\Nickp\source\repos\BooleanWhileDoAssignment\BooleanWhileDoAssignment\bin\Debug\netcoreapp3.1\BooleanWhileDoAssignment.runtimeconfig.json
+C:\Users\Nickp\source\repos\BooleanWhileDoAssignment\BooleanWhileDoAssignment\bin\Debug\netcoreapp3.1\BooleanWhileDoAssignment.runtimeconfig.dev.json
+C:\Users\Nickp\source\repos\BooleanWhileDoAssignment\BooleanWhileDoAssignment\bin\Debug\netcoreapp3.1\BooleanWhileDoAssignment.dll
+C:\Users\Nickp\source\repos\BooleanWhileDoAssignment\BooleanWhileDoAssignment\bin\Debug\netcoreapp3.1\BooleanWhileDoAssignment.pdb
+C:\Users\Nickp\source\repos\BooleanWhileDoAssignment\BooleanWhileDoAssignment\obj\Debug\netcoreapp3.1\BooleanWhileDoAssignment.csproj.AssemblyReference.cache
+C:\Users\Nickp\source\repos\BooleanWhileDoAssignment\BooleanWhileDoAssignment\obj\Debug\netcoreapp3.1\BooleanWhileDoAssignment.AssemblyInfoInputs.cache
+C:\Users\Nickp\source\repos\BooleanWhileDoAssignment\BooleanWhileDoAssignment\obj\Debug\netcoreapp3.1\BooleanWhileDoAssignment.AssemblyInfo.cs
+C:\Users\Nickp\source\repos\BooleanWhileDoAssignment\BooleanWhileDoAssignment\obj\Debug\netcoreapp3.1\BooleanWhileDoAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Nickp\source\repos\BooleanWhileDoAssignment\BooleanWhileDoAssignment\obj\Debug\netcoreapp3.1\BooleanWhileDoAssignment.dll
+C:\Users\Nickp\source\repos\BooleanWhileDoAssignment\BooleanWhileDoAssignment\obj\Debug\netcoreapp3.1\BooleanWhileDoAssignment.pdb
+C:\Users\Nickp\source\repos\BooleanWhileDoAssignment\BooleanWhileDoAssignment\obj\Debug\netcoreapp3.1\BooleanWhileDoAssignment.genruntimeconfig.cache
