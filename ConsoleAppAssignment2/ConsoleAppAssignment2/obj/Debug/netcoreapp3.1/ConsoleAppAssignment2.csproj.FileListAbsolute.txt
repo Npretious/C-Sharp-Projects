@@ -1,0 +1,13 @@
+C:\Users\Nickp\source\repos\ConsoleAppAssignment2\ConsoleAppAssignment2\bin\Debug\netcoreapp3.1\ConsoleAppAssignment2.exe
+C:\Users\Nickp\source\repos\ConsoleAppAssignment2\ConsoleAppAssignment2\bin\Debug\netcoreapp3.1\ConsoleAppAssignment2.deps.json
+C:\Users\Nickp\source\repos\ConsoleAppAssignment2\ConsoleAppAssignment2\bin\Debug\netcoreapp3.1\ConsoleAppAssignment2.runtimeconfig.json
+C:\Users\Nickp\source\repos\ConsoleAppAssignment2\ConsoleAppAssignment2\bin\Debug\netcoreapp3.1\ConsoleAppAssignment2.runtimeconfig.dev.json
+C:\Users\Nickp\source\repos\ConsoleAppAssignment2\ConsoleAppAssignment2\bin\Debug\netcoreapp3.1\ConsoleAppAssignment2.dll
+C:\Users\Nickp\source\repos\ConsoleAppAssignment2\ConsoleAppAssignment2\bin\Debug\netcoreapp3.1\ConsoleAppAssignment2.pdb
+C:\Users\Nickp\source\repos\ConsoleAppAssignment2\ConsoleAppAssignment2\obj\Debug\netcoreapp3.1\ConsoleAppAssignment2.csproj.AssemblyReference.cache
+C:\Users\Nickp\source\repos\ConsoleAppAssignment2\ConsoleAppAssignment2\obj\Debug\netcoreapp3.1\ConsoleAppAssignment2.AssemblyInfoInputs.cache
+C:\Users\Nickp\source\repos\ConsoleAppAssignment2\ConsoleAppAssignment2\obj\Debug\netcoreapp3.1\ConsoleAppAssignment2.AssemblyInfo.cs
+C:\Users\Nickp\source\repos\ConsoleAppAssignment2\ConsoleAppAssignment2\obj\Debug\netcoreapp3.1\ConsoleAppAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\Nickp\source\repos\ConsoleAppAssignment2\ConsoleAppAssignment2\obj\Debug\netcoreapp3.1\ConsoleAppAssignment2.dll
+C:\Users\Nickp\source\repos\ConsoleAppAssignment2\ConsoleAppAssignment2\obj\Debug\netcoreapp3.1\ConsoleAppAssignment2.pdb
+C:\Users\Nickp\source\repos\ConsoleAppAssignment2\ConsoleAppAssignment2\obj\Debug\netcoreapp3.1\ConsoleAppAssignment2.genruntimeconfig.cache
