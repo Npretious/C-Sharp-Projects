@@ -1,0 +1,13 @@
+C:\Users\Nickp\source\repos\StringsAndIntegers\StringsAndIntegers\obj\Debug\netcoreapp3.1\StringsAndIntegers.csproj.AssemblyReference.cache
+C:\Users\Nickp\source\repos\StringsAndIntegers\StringsAndIntegers\obj\Debug\netcoreapp3.1\StringsAndIntegers.AssemblyInfoInputs.cache
+C:\Users\Nickp\source\repos\StringsAndIntegers\StringsAndIntegers\obj\Debug\netcoreapp3.1\StringsAndIntegers.AssemblyInfo.cs
+C:\Users\Nickp\source\repos\StringsAndIntegers\StringsAndIntegers\obj\Debug\netcoreapp3.1\StringsAndIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Nickp\source\repos\StringsAndIntegers\StringsAndIntegers\bin\Debug\netcoreapp3.1\StringsAndIntegers.exe
+C:\Users\Nickp\source\repos\StringsAndIntegers\StringsAndIntegers\bin\Debug\netcoreapp3.1\StringsAndIntegers.deps.json
+C:\Users\Nickp\source\repos\StringsAndIntegers\StringsAndIntegers\bin\Debug\netcoreapp3.1\StringsAndIntegers.runtimeconfig.json
+C:\Users\Nickp\source\repos\StringsAndIntegers\StringsAndIntegers\bin\Debug\netcoreapp3.1\StringsAndIntegers.runtimeconfig.dev.json
+C:\Users\Nickp\source\repos\StringsAndIntegers\StringsAndIntegers\bin\Debug\netcoreapp3.1\StringsAndIntegers.dll
+C:\Users\Nickp\source\repos\StringsAndIntegers\StringsAndIntegers\bin\Debug\netcoreapp3.1\StringsAndIntegers.pdb
+C:\Users\Nickp\source\repos\StringsAndIntegers\StringsAndIntegers\obj\Debug\netcoreapp3.1\StringsAndIntegers.dll
+C:\Users\Nickp\source\repos\StringsAndIntegers\StringsAndIntegers\obj\Debug\netcoreapp3.1\StringsAndIntegers.pdb
+C:\Users\Nickp\source\repos\StringsAndIntegers\StringsAndIntegers\obj\Debug\netcoreapp3.1\StringsAndIntegers.genruntimeconfig.cache
