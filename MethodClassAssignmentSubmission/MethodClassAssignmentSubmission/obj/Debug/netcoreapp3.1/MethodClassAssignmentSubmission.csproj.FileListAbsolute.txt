@@ -1,0 +1,13 @@
+C:\Users\Nickp\source\repos\MethodClassAssignmentSubmission\MethodClassAssignmentSubmission\bin\Debug\netcoreapp3.1\MethodClassAssignmentSubmission.exe
+C:\Users\Nickp\source\repos\MethodClassAssignmentSubmission\MethodClassAssignmentSubmission\bin\Debug\netcoreapp3.1\MethodClassAssignmentSubmission.deps.json
+C:\Users\Nickp\source\repos\MethodClassAssignmentSubmission\MethodClassAssignmentSubmission\bin\Debug\netcoreapp3.1\MethodClassAssignmentSubmission.runtimeconfig.json
+C:\Users\Nickp\source\repos\MethodClassAssignmentSubmission\MethodClassAssignmentSubmission\bin\Debug\netcoreapp3.1\MethodClassAssignmentSubmission.runtimeconfig.dev.json
+C:\Users\Nickp\source\repos\MethodClassAssignmentSubmission\MethodClassAssignmentSubmission\bin\Debug\netcoreapp3.1\MethodClassAssignmentSubmission.dll
+C:\Users\Nickp\source\repos\MethodClassAssignmentSubmission\MethodClassAssignmentSubmission\bin\Debug\netcoreapp3.1\MethodClassAssignmentSubmission.pdb
+C:\Users\Nickp\source\repos\MethodClassAssignmentSubmission\MethodClassAssignmentSubmission\obj\Debug\netcoreapp3.1\MethodClassAssignmentSubmission.csproj.AssemblyReference.cache
+C:\Users\Nickp\source\repos\MethodClassAssignmentSubmission\MethodClassAssignmentSubmission\obj\Debug\netcoreapp3.1\MethodClassAssignmentSubmission.AssemblyInfoInputs.cache
+C:\Users\Nickp\source\repos\MethodClassAssignmentSubmission\MethodClassAssignmentSubmission\obj\Debug\netcoreapp3.1\MethodClassAssignmentSubmission.AssemblyInfo.cs
+C:\Users\Nickp\source\repos\MethodClassAssignmentSubmission\MethodClassAssignmentSubmission\obj\Debug\netcoreapp3.1\MethodClassAssignmentSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Nickp\source\repos\MethodClassAssignmentSubmission\MethodClassAssignmentSubmission\obj\Debug\netcoreapp3.1\MethodClassAssignmentSubmission.dll
+C:\Users\Nickp\source\repos\MethodClassAssignmentSubmission\MethodClassAssignmentSubmission\obj\Debug\netcoreapp3.1\MethodClassAssignmentSubmission.pdb
+C:\Users\Nickp\source\repos\MethodClassAssignmentSubmission\MethodClassAssignmentSubmission\obj\Debug\netcoreapp3.1\MethodClassAssignmentSubmission.genruntimeconfig.cache
