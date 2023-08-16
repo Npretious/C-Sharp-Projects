@@ -1,0 +1,13 @@
+C:\Users\Nickp\source\repos\ClassMethodAssignment\ClassMethodAssignment\bin\Debug\netcoreapp3.1\ClassMethodAssignment.exe
+C:\Users\Nickp\source\repos\ClassMethodAssignment\ClassMethodAssignment\bin\Debug\netcoreapp3.1\ClassMethodAssignment.deps.json
+C:\Users\Nickp\source\repos\ClassMethodAssignment\ClassMethodAssignment\bin\Debug\netcoreapp3.1\ClassMethodAssignment.runtimeconfig.json
+C:\Users\Nickp\source\repos\ClassMethodAssignment\ClassMethodAssignment\bin\Debug\netcoreapp3.1\ClassMethodAssignment.runtimeconfig.dev.json
+C:\Users\Nickp\source\repos\ClassMethodAssignment\ClassMethodAssignment\bin\Debug\netcoreapp3.1\ClassMethodAssignment.dll
+C:\Users\Nickp\source\repos\ClassMethodAssignment\ClassMethodAssignment\bin\Debug\netcoreapp3.1\ClassMethodAssignment.pdb
+C:\Users\Nickp\source\repos\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\netcoreapp3.1\ClassMethodAssignment.csproj.AssemblyReference.cache
+C:\Users\Nickp\source\repos\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\netcoreapp3.1\ClassMethodAssignment.AssemblyInfoInputs.cache
+C:\Users\Nickp\source\repos\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\netcoreapp3.1\ClassMethodAssignment.AssemblyInfo.cs
+C:\Users\Nickp\source\repos\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\netcoreapp3.1\ClassMethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Nickp\source\repos\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\netcoreapp3.1\ClassMethodAssignment.dll
+C:\Users\Nickp\source\repos\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\netcoreapp3.1\ClassMethodAssignment.pdb
+C:\Users\Nickp\source\repos\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\netcoreapp3.1\ClassMethodAssignment.genruntimeconfig.cache
