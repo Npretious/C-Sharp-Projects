@@ -1,0 +1,13 @@
+C:\Users\Nickp\source\repos\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\netcoreapp3.1\AbstractClassAssignment.exe
+C:\Users\Nickp\source\repos\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\netcoreapp3.1\AbstractClassAssignment.deps.json
+C:\Users\Nickp\source\repos\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\netcoreapp3.1\AbstractClassAssignment.runtimeconfig.json
+C:\Users\Nickp\source\repos\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\netcoreapp3.1\AbstractClassAssignment.runtimeconfig.dev.json
+C:\Users\Nickp\source\repos\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\netcoreapp3.1\AbstractClassAssignment.dll
+C:\Users\Nickp\source\repos\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\netcoreapp3.1\AbstractClassAssignment.pdb
+C:\Users\Nickp\source\repos\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.csproj.AssemblyReference.cache
+C:\Users\Nickp\source\repos\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.AssemblyInfoInputs.cache
+C:\Users\Nickp\source\repos\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.AssemblyInfo.cs
+C:\Users\Nickp\source\repos\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Nickp\source\repos\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.dll
+C:\Users\Nickp\source\repos\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.pdb
+C:\Users\Nickp\source\repos\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.genruntimeconfig.cache
