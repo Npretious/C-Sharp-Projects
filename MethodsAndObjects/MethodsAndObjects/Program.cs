@@ -12,6 +12,8 @@ namespace MethodsAndObjects
             //Call the superclass method SayName() on the Employee object
             sam.SayName();
             Console.ReadLine();
+            IQuittable quittable = new Employee();
+            quittable.Quit();
         }
     }
 }

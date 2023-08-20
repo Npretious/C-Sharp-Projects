@@ -16,5 +16,10 @@ namespace MethodsAndObjects
             //Displays persons full name in console
             Console.WriteLine("Name: " + this.FirstName + " " + this.LastName);
         }
+
+        public void Quit()
+        {
+            Console.WriteLine("I quit!");
+        }
     }
 }

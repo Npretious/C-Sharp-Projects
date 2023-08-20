@@ -1,0 +1,13 @@
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodsAndObjects\MethodsAndObjects\bin\Debug\netcoreapp3.1\MethodsAndObjects.exe
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodsAndObjects\MethodsAndObjects\bin\Debug\netcoreapp3.1\MethodsAndObjects.deps.json
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodsAndObjects\MethodsAndObjects\bin\Debug\netcoreapp3.1\MethodsAndObjects.runtimeconfig.json
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodsAndObjects\MethodsAndObjects\bin\Debug\netcoreapp3.1\MethodsAndObjects.runtimeconfig.dev.json
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodsAndObjects\MethodsAndObjects\bin\Debug\netcoreapp3.1\MethodsAndObjects.dll
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodsAndObjects\MethodsAndObjects\bin\Debug\netcoreapp3.1\MethodsAndObjects.pdb
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodsAndObjects\MethodsAndObjects\obj\Debug\netcoreapp3.1\MethodsAndObjects.csproj.AssemblyReference.cache
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodsAndObjects\MethodsAndObjects\obj\Debug\netcoreapp3.1\MethodsAndObjects.AssemblyInfoInputs.cache
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodsAndObjects\MethodsAndObjects\obj\Debug\netcoreapp3.1\MethodsAndObjects.AssemblyInfo.cs
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodsAndObjects\MethodsAndObjects\obj\Debug\netcoreapp3.1\MethodsAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodsAndObjects\MethodsAndObjects\obj\Debug\netcoreapp3.1\MethodsAndObjects.dll
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodsAndObjects\MethodsAndObjects\obj\Debug\netcoreapp3.1\MethodsAndObjects.pdb
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodsAndObjects\MethodsAndObjects\obj\Debug\netcoreapp3.1\MethodsAndObjects.genruntimeconfig.cache

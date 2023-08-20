@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nickp\\source\\repos\\MethodsAndObjects\\MethodsAndObjects\\MethodsAndObjects.csproj",
+      "projectUniqueName": "C:\\Users\\Nickp\\OneDrive\\Documents\\GitHub\\Basic-C-Sharp-Projects\\MethodsAndObjects\\MethodsAndObjects\\MethodsAndObjects.csproj",
       "projectName": "MethodsAndObjects",
-      "projectPath": "C:\\Users\\Nickp\\source\\repos\\MethodsAndObjects\\MethodsAndObjects\\MethodsAndObjects.csproj",
+      "projectPath": "C:\\Users\\Nickp\\OneDrive\\Documents\\GitHub\\Basic-C-Sharp-Projects\\MethodsAndObjects\\MethodsAndObjects\\MethodsAndObjects.csproj",
       "packagesPath": "C:\\Users\\Nickp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nickp\\source\\repos\\MethodsAndObjects\\MethodsAndObjects\\obj\\",
+      "outputPath": "C:\\Users\\Nickp\\OneDrive\\Documents\\GitHub\\Basic-C-Sharp-Projects\\MethodsAndObjects\\MethodsAndObjects\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
