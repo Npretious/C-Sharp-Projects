@@ -17,8 +17,10 @@ namespace MethodsAndObjects
             Console.WriteLine("Name: " + this.FirstName + " " + this.LastName);
         }
 
+        //Adding void method Quit()
         public void Quit()
         {
+            //Displaying I quit to the console
             Console.WriteLine("I quit!");
         }
     }

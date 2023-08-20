@@ -11,7 +11,9 @@ namespace MethodsAndObjects
             Employee sam = new Employee() { FirstName = "Sample", LastName = "Student" };
             //Call the superclass method SayName() on the Employee object
             sam.SayName();
+            //Stops program from closing
             Console.ReadLine();
+            //creating instance of employee class and assigning variable type IQuittable to it.
             IQuittable quittable = new Employee();
             quittable.Quit();
         }
