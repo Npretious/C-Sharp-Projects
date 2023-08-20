@@ -1,0 +1,13 @@
+C:\Users\Nickp\source\repos\OperatorsAssignment\OperatorsAssignment\bin\Debug\netcoreapp3.1\OperatorsAssignment.exe
+C:\Users\Nickp\source\repos\OperatorsAssignment\OperatorsAssignment\bin\Debug\netcoreapp3.1\OperatorsAssignment.deps.json
+C:\Users\Nickp\source\repos\OperatorsAssignment\OperatorsAssignment\bin\Debug\netcoreapp3.1\OperatorsAssignment.runtimeconfig.json
+C:\Users\Nickp\source\repos\OperatorsAssignment\OperatorsAssignment\bin\Debug\netcoreapp3.1\OperatorsAssignment.runtimeconfig.dev.json
+C:\Users\Nickp\source\repos\OperatorsAssignment\OperatorsAssignment\bin\Debug\netcoreapp3.1\OperatorsAssignment.dll
+C:\Users\Nickp\source\repos\OperatorsAssignment\OperatorsAssignment\bin\Debug\netcoreapp3.1\OperatorsAssignment.pdb
+C:\Users\Nickp\source\repos\OperatorsAssignment\OperatorsAssignment\obj\Debug\netcoreapp3.1\OperatorsAssignment.csproj.AssemblyReference.cache
+C:\Users\Nickp\source\repos\OperatorsAssignment\OperatorsAssignment\obj\Debug\netcoreapp3.1\OperatorsAssignment.AssemblyInfoInputs.cache
+C:\Users\Nickp\source\repos\OperatorsAssignment\OperatorsAssignment\obj\Debug\netcoreapp3.1\OperatorsAssignment.AssemblyInfo.cs
+C:\Users\Nickp\source\repos\OperatorsAssignment\OperatorsAssignment\obj\Debug\netcoreapp3.1\OperatorsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Nickp\source\repos\OperatorsAssignment\OperatorsAssignment\obj\Debug\netcoreapp3.1\OperatorsAssignment.dll
+C:\Users\Nickp\source\repos\OperatorsAssignment\OperatorsAssignment\obj\Debug\netcoreapp3.1\OperatorsAssignment.pdb
+C:\Users\Nickp\source\repos\OperatorsAssignment\OperatorsAssignment\obj\Debug\netcoreapp3.1\OperatorsAssignment.genruntimeconfig.cache
