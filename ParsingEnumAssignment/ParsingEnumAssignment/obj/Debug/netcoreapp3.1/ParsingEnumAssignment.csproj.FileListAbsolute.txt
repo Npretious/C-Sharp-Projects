@@ -1,0 +1,13 @@
+C:\Users\Nickp\source\repos\ParsingEnumAssignment\ParsingEnumAssignment\bin\Debug\netcoreapp3.1\ParsingEnumAssignment.exe
+C:\Users\Nickp\source\repos\ParsingEnumAssignment\ParsingEnumAssignment\bin\Debug\netcoreapp3.1\ParsingEnumAssignment.deps.json
+C:\Users\Nickp\source\repos\ParsingEnumAssignment\ParsingEnumAssignment\bin\Debug\netcoreapp3.1\ParsingEnumAssignment.runtimeconfig.json
+C:\Users\Nickp\source\repos\ParsingEnumAssignment\ParsingEnumAssignment\bin\Debug\netcoreapp3.1\ParsingEnumAssignment.runtimeconfig.dev.json
+C:\Users\Nickp\source\repos\ParsingEnumAssignment\ParsingEnumAssignment\bin\Debug\netcoreapp3.1\ParsingEnumAssignment.dll
+C:\Users\Nickp\source\repos\ParsingEnumAssignment\ParsingEnumAssignment\bin\Debug\netcoreapp3.1\ParsingEnumAssignment.pdb
+C:\Users\Nickp\source\repos\ParsingEnumAssignment\ParsingEnumAssignment\obj\Debug\netcoreapp3.1\ParsingEnumAssignment.csproj.AssemblyReference.cache
+C:\Users\Nickp\source\repos\ParsingEnumAssignment\ParsingEnumAssignment\obj\Debug\netcoreapp3.1\ParsingEnumAssignment.AssemblyInfoInputs.cache
+C:\Users\Nickp\source\repos\ParsingEnumAssignment\ParsingEnumAssignment\obj\Debug\netcoreapp3.1\ParsingEnumAssignment.AssemblyInfo.cs
+C:\Users\Nickp\source\repos\ParsingEnumAssignment\ParsingEnumAssignment\obj\Debug\netcoreapp3.1\ParsingEnumAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Nickp\source\repos\ParsingEnumAssignment\ParsingEnumAssignment\obj\Debug\netcoreapp3.1\ParsingEnumAssignment.dll
+C:\Users\Nickp\source\repos\ParsingEnumAssignment\ParsingEnumAssignment\obj\Debug\netcoreapp3.1\ParsingEnumAssignment.pdb
+C:\Users\Nickp\source\repos\ParsingEnumAssignment\ParsingEnumAssignment\obj\Debug\netcoreapp3.1\ParsingEnumAssignment.genruntimeconfig.cache
