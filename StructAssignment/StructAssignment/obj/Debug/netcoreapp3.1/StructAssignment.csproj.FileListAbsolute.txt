@@ -1,0 +1,13 @@
+C:\Users\Nickp\source\repos\StructAssignment\StructAssignment\bin\Debug\netcoreapp3.1\StructAssignment.exe
+C:\Users\Nickp\source\repos\StructAssignment\StructAssignment\bin\Debug\netcoreapp3.1\StructAssignment.deps.json
+C:\Users\Nickp\source\repos\StructAssignment\StructAssignment\bin\Debug\netcoreapp3.1\StructAssignment.runtimeconfig.json
+C:\Users\Nickp\source\repos\StructAssignment\StructAssignment\bin\Debug\netcoreapp3.1\StructAssignment.runtimeconfig.dev.json
+C:\Users\Nickp\source\repos\StructAssignment\StructAssignment\bin\Debug\netcoreapp3.1\StructAssignment.dll
+C:\Users\Nickp\source\repos\StructAssignment\StructAssignment\bin\Debug\netcoreapp3.1\StructAssignment.pdb
+C:\Users\Nickp\source\repos\StructAssignment\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.csproj.AssemblyReference.cache
+C:\Users\Nickp\source\repos\StructAssignment\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.AssemblyInfoInputs.cache
+C:\Users\Nickp\source\repos\StructAssignment\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.AssemblyInfo.cs
+C:\Users\Nickp\source\repos\StructAssignment\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Nickp\source\repos\StructAssignment\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.dll
+C:\Users\Nickp\source\repos\StructAssignment\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.pdb
+C:\Users\Nickp\source\repos\StructAssignment\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.genruntimeconfig.cache
