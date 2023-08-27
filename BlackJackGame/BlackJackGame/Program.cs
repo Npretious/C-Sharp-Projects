@@ -11,7 +11,6 @@ namespace BlackJackGame
     {
         static void Main(string[] args)
         {
-
             Console.WriteLine("Welcome to the Grand Online Casino. What is your name?");
             string playerName = Console.ReadLine();
             Console.WriteLine("How much will your bankroll be today?");

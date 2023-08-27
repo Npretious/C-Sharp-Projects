@@ -1,0 +1,13 @@
+C:\Users\Nickp\source\repos\DateTimeAssignment\DateTimeAssignment\bin\Debug\netcoreapp3.1\DateTimeAssignment.exe
+C:\Users\Nickp\source\repos\DateTimeAssignment\DateTimeAssignment\bin\Debug\netcoreapp3.1\DateTimeAssignment.deps.json
+C:\Users\Nickp\source\repos\DateTimeAssignment\DateTimeAssignment\bin\Debug\netcoreapp3.1\DateTimeAssignment.runtimeconfig.json
+C:\Users\Nickp\source\repos\DateTimeAssignment\DateTimeAssignment\bin\Debug\netcoreapp3.1\DateTimeAssignment.runtimeconfig.dev.json
+C:\Users\Nickp\source\repos\DateTimeAssignment\DateTimeAssignment\bin\Debug\netcoreapp3.1\DateTimeAssignment.dll
+C:\Users\Nickp\source\repos\DateTimeAssignment\DateTimeAssignment\bin\Debug\netcoreapp3.1\DateTimeAssignment.pdb
+C:\Users\Nickp\source\repos\DateTimeAssignment\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.csproj.AssemblyReference.cache
+C:\Users\Nickp\source\repos\DateTimeAssignment\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.AssemblyInfoInputs.cache
+C:\Users\Nickp\source\repos\DateTimeAssignment\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.AssemblyInfo.cs
+C:\Users\Nickp\source\repos\DateTimeAssignment\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Nickp\source\repos\DateTimeAssignment\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.dll
+C:\Users\Nickp\source\repos\DateTimeAssignment\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.pdb
+C:\Users\Nickp\source\repos\DateTimeAssignment\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.genruntimeconfig.cache
