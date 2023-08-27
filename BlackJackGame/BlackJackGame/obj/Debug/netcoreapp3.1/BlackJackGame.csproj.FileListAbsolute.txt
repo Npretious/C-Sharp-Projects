@@ -11,3 +11,16 @@ C:\Users\Nickp\source\repos\BlackJackGame\BlackJackGame\bin\Debug\netcoreapp3.1\
 C:\Users\Nickp\source\repos\BlackJackGame\BlackJackGame\obj\Debug\netcoreapp3.1\BlackJackGame.dll
 C:\Users\Nickp\source\repos\BlackJackGame\BlackJackGame\obj\Debug\netcoreapp3.1\BlackJackGame.pdb
 C:\Users\Nickp\source\repos\BlackJackGame\BlackJackGame\obj\Debug\netcoreapp3.1\BlackJackGame.genruntimeconfig.cache
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BlackJackGame\BlackJackGame\bin\Debug\netcoreapp3.1\BlackJackGame.exe
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BlackJackGame\BlackJackGame\bin\Debug\netcoreapp3.1\BlackJackGame.deps.json
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BlackJackGame\BlackJackGame\bin\Debug\netcoreapp3.1\BlackJackGame.runtimeconfig.json
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BlackJackGame\BlackJackGame\bin\Debug\netcoreapp3.1\BlackJackGame.runtimeconfig.dev.json
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BlackJackGame\BlackJackGame\bin\Debug\netcoreapp3.1\BlackJackGame.dll
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BlackJackGame\BlackJackGame\bin\Debug\netcoreapp3.1\BlackJackGame.pdb
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BlackJackGame\BlackJackGame\obj\Debug\netcoreapp3.1\BlackJackGame.csproj.AssemblyReference.cache
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BlackJackGame\BlackJackGame\obj\Debug\netcoreapp3.1\BlackJackGame.AssemblyInfoInputs.cache
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BlackJackGame\BlackJackGame\obj\Debug\netcoreapp3.1\BlackJackGame.AssemblyInfo.cs
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BlackJackGame\BlackJackGame\obj\Debug\netcoreapp3.1\BlackJackGame.csproj.CoreCompileInputs.cache
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BlackJackGame\BlackJackGame\obj\Debug\netcoreapp3.1\BlackJackGame.dll
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BlackJackGame\BlackJackGame\obj\Debug\netcoreapp3.1\BlackJackGame.pdb
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BlackJackGame\BlackJackGame\obj\Debug\netcoreapp3.1\BlackJackGame.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Nickp\source\repos\InputAssignment\InputAssignment\bin\Debug\netcoreapp3.1\InputAssignment.exe
+C:\Users\Nickp\source\repos\InputAssignment\InputAssignment\bin\Debug\netcoreapp3.1\InputAssignment.deps.json
+C:\Users\Nickp\source\repos\InputAssignment\InputAssignment\bin\Debug\netcoreapp3.1\InputAssignment.runtimeconfig.json
+C:\Users\Nickp\source\repos\InputAssignment\InputAssignment\bin\Debug\netcoreapp3.1\InputAssignment.runtimeconfig.dev.json
+C:\Users\Nickp\source\repos\InputAssignment\InputAssignment\bin\Debug\netcoreapp3.1\InputAssignment.dll
+C:\Users\Nickp\source\repos\InputAssignment\InputAssignment\bin\Debug\netcoreapp3.1\InputAssignment.pdb
+C:\Users\Nickp\source\repos\InputAssignment\InputAssignment\obj\Debug\netcoreapp3.1\InputAssignment.csproj.AssemblyReference.cache
+C:\Users\Nickp\source\repos\InputAssignment\InputAssignment\obj\Debug\netcoreapp3.1\InputAssignment.AssemblyInfoInputs.cache
+C:\Users\Nickp\source\repos\InputAssignment\InputAssignment\obj\Debug\netcoreapp3.1\InputAssignment.AssemblyInfo.cs
+C:\Users\Nickp\source\repos\InputAssignment\InputAssignment\obj\Debug\netcoreapp3.1\InputAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Nickp\source\repos\InputAssignment\InputAssignment\obj\Debug\netcoreapp3.1\InputAssignment.dll
+C:\Users\Nickp\source\repos\InputAssignment\InputAssignment\obj\Debug\netcoreapp3.1\InputAssignment.pdb
+C:\Users\Nickp\source\repos\InputAssignment\InputAssignment\obj\Debug\netcoreapp3.1\InputAssignment.genruntimeconfig.cache
