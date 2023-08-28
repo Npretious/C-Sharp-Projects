@@ -6,3 +6,4 @@ C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BlackJackGame\Ca
 C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BlackJackGame\Casino\obj\Debug\netcoreapp3.1\Casino.csproj.CoreCompileInputs.cache
 C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BlackJackGame\Casino\obj\Debug\netcoreapp3.1\Casino.dll
 C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BlackJackGame\Casino\obj\Debug\netcoreapp3.1\Casino.pdb
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BlackJackGame\Casino\obj\Debug\netcoreapp3.1\Casino.csproj.AssemblyReference.cache
