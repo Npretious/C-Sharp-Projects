@@ -1,0 +1,13 @@
+C:\Users\Nickp\source\repos\ConstructorAssignment\ConstructorAssignment\bin\Debug\netcoreapp3.1\ConstructorAssignment.exe
+C:\Users\Nickp\source\repos\ConstructorAssignment\ConstructorAssignment\bin\Debug\netcoreapp3.1\ConstructorAssignment.deps.json
+C:\Users\Nickp\source\repos\ConstructorAssignment\ConstructorAssignment\bin\Debug\netcoreapp3.1\ConstructorAssignment.runtimeconfig.json
+C:\Users\Nickp\source\repos\ConstructorAssignment\ConstructorAssignment\bin\Debug\netcoreapp3.1\ConstructorAssignment.runtimeconfig.dev.json
+C:\Users\Nickp\source\repos\ConstructorAssignment\ConstructorAssignment\bin\Debug\netcoreapp3.1\ConstructorAssignment.dll
+C:\Users\Nickp\source\repos\ConstructorAssignment\ConstructorAssignment\bin\Debug\netcoreapp3.1\ConstructorAssignment.pdb
+C:\Users\Nickp\source\repos\ConstructorAssignment\ConstructorAssignment\obj\Debug\netcoreapp3.1\ConstructorAssignment.csproj.AssemblyReference.cache
+C:\Users\Nickp\source\repos\ConstructorAssignment\ConstructorAssignment\obj\Debug\netcoreapp3.1\ConstructorAssignment.AssemblyInfoInputs.cache
+C:\Users\Nickp\source\repos\ConstructorAssignment\ConstructorAssignment\obj\Debug\netcoreapp3.1\ConstructorAssignment.AssemblyInfo.cs
+C:\Users\Nickp\source\repos\ConstructorAssignment\ConstructorAssignment\obj\Debug\netcoreapp3.1\ConstructorAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Nickp\source\repos\ConstructorAssignment\ConstructorAssignment\obj\Debug\netcoreapp3.1\ConstructorAssignment.dll
+C:\Users\Nickp\source\repos\ConstructorAssignment\ConstructorAssignment\obj\Debug\netcoreapp3.1\ConstructorAssignment.pdb
+C:\Users\Nickp\source\repos\ConstructorAssignment\ConstructorAssignment\obj\Debug\netcoreapp3.1\ConstructorAssignment.genruntimeconfig.cache

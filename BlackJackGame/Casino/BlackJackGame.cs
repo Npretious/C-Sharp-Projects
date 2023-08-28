@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Casino.Interfaces;
 
-namespace BlackJackGame
+namespace Casino.BlackJackGame
 {
-    class BlackJackGame : Game, IWalkAway
+    public class BlackJackGame : Game, IWalkAway
     {
         public BlackJackDealer Dealer { get; set; }
         public override void Play()
@@ -92,7 +93,7 @@ namespace BlackJackGame
                     if (busted)
                     {
                         Dealer.Balance += Bets[player];
-                        Console.WriteLine("{0} Busted! You lose your bet of {1}. Your balance is now {2}.", player.Name, Bets[player], player.Balance);
+                        Console.Write("{0} Busted! You lose your bet of {1}. Your balance is now {2}.", player.Name, Bets[player], player.Balance);
                         Console.WriteLine("Do you want to play again?");
                         answer = Console.ReadLine().ToLower();
                         if (answer == "yes" || answer =="yeah")
@@ -176,4 +177,5 @@ namespace BlackJackGame
             throw new NotImplementedException();
         }
     }
+
 }

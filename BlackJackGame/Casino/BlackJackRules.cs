@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BlackJackGame
+namespace Casino.BlackJackGame
 {
     public class BlackJackRules
     {
@@ -33,7 +33,7 @@ namespace BlackJackGame
             if (result.Length == 1) return result;
             for (int i = 1; i < result.Length; i++)
             {
-                value += value + (i * 10);
+                value += 10;
                 result[i] = value;
             }
             return result;

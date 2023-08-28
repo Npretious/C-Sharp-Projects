@@ -1,17 +1,20 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.IO;
+using Casino;
+using Casino.BlackJackGame;
 
-namespace BlackJackGame
+namespace BlackJack
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to the Grand Online Casino. What is your name?");
+            const string casinoName = "Grand Online Casino";
+
+
+
+            Console.WriteLine("Welcome to the {0}. What is your name?", casinoName);
             string playerName = Console.ReadLine();
             Console.WriteLine("How much will your bankroll be today?");
             int bank = Convert.ToInt32(Console.ReadLine());
@@ -20,6 +23,11 @@ namespace BlackJackGame
             if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
             {
                 Player player = new Player(playerName, bank);
+                player.Id = Guid.NewGuid();
+                using (StreamWriter file = new StreamWriter(@"C:\Users\Nickp\Logs\log.txt", true))
+                {
+                    file.WriteLine(player.Id);
+                }
                 Game game = new BlackJackGame();
                 game += player;
                 player.isActivelyPlaying = true;

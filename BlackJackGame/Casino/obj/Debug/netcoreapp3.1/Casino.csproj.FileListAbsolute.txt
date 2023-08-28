@@ -1,0 +1,8 @@
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BlackJackGame\Casino\bin\Debug\netcoreapp3.1\Casino.deps.json
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BlackJackGame\Casino\bin\Debug\netcoreapp3.1\Casino.dll
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BlackJackGame\Casino\bin\Debug\netcoreapp3.1\Casino.pdb
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BlackJackGame\Casino\obj\Debug\netcoreapp3.1\Casino.AssemblyInfoInputs.cache
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BlackJackGame\Casino\obj\Debug\netcoreapp3.1\Casino.AssemblyInfo.cs
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BlackJackGame\Casino\obj\Debug\netcoreapp3.1\Casino.csproj.CoreCompileInputs.cache
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BlackJackGame\Casino\obj\Debug\netcoreapp3.1\Casino.dll
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BlackJackGame\Casino\obj\Debug\netcoreapp3.1\Casino.pdb

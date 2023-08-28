@@ -24,3 +24,6 @@ C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BlackJackGame\Bl
 C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BlackJackGame\BlackJackGame\obj\Debug\netcoreapp3.1\BlackJackGame.dll
 C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BlackJackGame\BlackJackGame\obj\Debug\netcoreapp3.1\BlackJackGame.pdb
 C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BlackJackGame\BlackJackGame\obj\Debug\netcoreapp3.1\BlackJackGame.genruntimeconfig.cache
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BlackJackGame\BlackJackGame\bin\Debug\netcoreapp3.1\Casino.dll
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BlackJackGame\BlackJackGame\bin\Debug\netcoreapp3.1\Casino.pdb
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BlackJackGame\BlackJackGame\obj\Debug\netcoreapp3.1\BlackJackGame.csproj.CopyComplete
